@@ -25,5 +25,4 @@ export default buildConfig({
       connectionString: process.env.DATABASE_URI,
     },
   }),
-  // database-adapter-config-end
 })
